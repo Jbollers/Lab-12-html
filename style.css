@@ -22,3 +22,16 @@ body {
 
 a {
 	text-decoration: line-through;
+}
+
+.spotlight {
+
+	background-color: #FEFE22;
+}
+
+#intro {
+
+	padding: 1px;
+	color: black;
+	font-weight: bold;
+}
